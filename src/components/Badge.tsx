@@ -50,7 +50,7 @@ export const Badge = (props: Props) => {
         'background-color': props.badgeBackgroundColor ?? '#ffffff',
       }}
     >
-      Powered by 
+      Powered by
       <a
         ref={liteBadge}
         href={'https://webwire.com.au'}
